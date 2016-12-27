@@ -7,7 +7,7 @@ Pull down the docker/alpine image so it's local:
 docker pull alpine:3.4
 ```
 
-Modify the Dockerfile if necessary
+Modify the `Dockerfile` if necessary
 
 Build your image:
 ```bash
