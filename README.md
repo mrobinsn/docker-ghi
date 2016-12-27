@@ -50,3 +50,8 @@ The most commonly used ghi commands are:
 
 See 'ghi help <command>' for more information on a specific command.
 ```
+
+```bash
+gpratt@docker:~/ghi-docker$ ghi status
+Issues are enabled for this repo
+```
